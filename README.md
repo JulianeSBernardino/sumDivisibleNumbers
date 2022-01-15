@@ -1,6 +1,5 @@
-# Becker
 
-###Instruções
+### Instruções
 1 - Abra a pasta lib em um terminal ou no terminal de um editor de código-fonte de sua preferência.
 No terminal execute:
 ```sh
